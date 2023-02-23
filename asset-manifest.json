@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ioannidis/static/css/main.87d6e283.css",
+    "main.js": "/ioannidis/static/js/main.c1027ea3.js",
+    "static/js/787.b0838a1c.chunk.js": "/ioannidis/static/js/787.b0838a1c.chunk.js",
+    "static/media/car.jpg": "/ioannidis/static/media/car.bb62425ce576ed65d0b4.jpg",
+    "static/media/phone.jpg": "/ioannidis/static/media/phone.04d94f3681f7ad6c5100.jpg",
+    "static/media/laptop.jpeg": "/ioannidis/static/media/laptop.ede6a41eec583c9bbcb1.jpeg",
+    "index.html": "/ioannidis/index.html",
+    "main.87d6e283.css.map": "/ioannidis/static/css/main.87d6e283.css.map",
+    "main.c1027ea3.js.map": "/ioannidis/static/js/main.c1027ea3.js.map",
+    "787.b0838a1c.chunk.js.map": "/ioannidis/static/js/787.b0838a1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d6e283.css",
+    "static/js/main.c1027ea3.js"
+  ]
+}
